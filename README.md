@@ -19,5 +19,3 @@
 </div>
   
 ##
-
-![Snake animation](https://github.com/lupusnocta/lupusnocta/blob/output/github-contribution-grid-snake.svg)
